@@ -1,1 +1,3 @@
 Este es el archivo 1
+Primer cambio del fichero
+Segundo cambio del fichero
