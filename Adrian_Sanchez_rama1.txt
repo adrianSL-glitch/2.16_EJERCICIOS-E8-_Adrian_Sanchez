@@ -1,2 +1,6 @@
 Este es el archivo 1
 Realizo cambios en la master
+Primer cambio del fichero
+Segundo cambio del fichero
+El archivo ha sido modificado 
+Adrian_Sanchez_rama
